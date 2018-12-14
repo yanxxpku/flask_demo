@@ -1,2 +1,2 @@
 - git is a distributed version control system
-- I create a new branch called 'dev'
+- created a new branch 'dev' for developing
